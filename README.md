@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Goldy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://media.giphy.com/media/K5kfQExKK731K/giphy.gif" width="450px" align="right" alt="">
 
 - 🌱 I’m currently learning **Web Development**
 
